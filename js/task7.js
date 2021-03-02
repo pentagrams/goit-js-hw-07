@@ -1,0 +1,1 @@
+const inputRef = document.querySelector('#font-size-control')
