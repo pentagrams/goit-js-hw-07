@@ -18,5 +18,3 @@ function errorChecker() {
             inputRef.classList.remove('invalid');
       }
 }
-
-
